@@ -1,0 +1,8 @@
+Jatkuva eksperimentointi ohjelmistokehityksen tukena
+
+Ohjelmistoala kehittyy jatkuvasti, jonka seurauksena uusien innovaatioiden kokeileminen ja todellisen käyttödatan analysointi saavat usein aikaan parempia lopputuloksia kuin pelkkä luuloihin ja mielipiteisiin pohjautuva ohjelmistokehitys. Laitekannan mobiilisoitumisen myötä käyttökokemusten seuranta ja analysointi on helpottunut ja saatu entistä kustannustehokkaammaksi. Jo varhaisessa vaiheessa kerätty käyttäjädata voi helpottaa sovelluksen suunnittelussa ja paremman käyttökokemuksen rakentamisessa. Lean-filosofia on ohjelmistotuotantoon levinnyt ajattelumalli, jossa asiakkaiden tavoittaminen ja palvelu on asetettu ensisijalle. Ketterät menetelmät yksinään sopivat ohjelmistokehityksen organisointiin, mutta ovat sellaisenaan riittämättömiä tuotteeseen liittyvien asioiden koknaisvaltaiseen suunnitteluun. Siksi näiden kahden integroimista toisiinsa tulisi ehdottamasti harkita.
+
+
+Alkuperäinen teksti:
+https://www.cs.helsinki.fi/u/mluukkai/ohtu/kortelainen-kandi.pdf
+Kandidaatintutkielma Esa Kortelainen. Referaatti Sami Ollila.

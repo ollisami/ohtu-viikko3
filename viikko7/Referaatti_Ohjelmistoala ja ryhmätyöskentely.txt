@@ -1,0 +1,8 @@
+Ohjelmistoala ja ryhmätyöskentely
+
+Ohjelmistoalalla, kuten monella muullakin alalla, ryhmätyötaitojen merkitys korostuu jatkuvasti. Hyvän työilmapiirin luominen vaatii tasapuolisten, yhteensopivien ja toistaan kompensoivien henkilöprofiilien yhteensovittamista. Henkilön persoonallisuudella voi olla vaikutusta siihen, kuinka mieluisaa kyseisen henkilön kanssa on työskennellä, miten henkilö lähestyy annettua tehtävää ja minkälaisiin tehtäviin hän soveltuu parhaiten. Tutkimusten mukaan ohjelmistoalalla tärkeimpiä luonteenpiirteitä ovat: Joustavuus, mukautuvuus, hyvät kommunikointitaidot, älykkyys sekä mukavuus. Tämä korostuu eritoten pariohjelmoinnissa, jossa tiivis yhteistyö vaatii hyvää yhteistä henkilökemiaa.
+
+
+Alkuperäinen teksti:
+https://www.cs.helsinki.fi/u/mluukkai/ohtu/heinononen-kandi.pdf
+Kandidaatintutkielma Kenny Heinonen. Referaatti Sami Ollila

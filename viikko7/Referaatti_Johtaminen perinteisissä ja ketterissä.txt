@@ -1,0 +1,9 @@
+Johtaminen perinteisissä ja ketterissä ohjelmistoprojekteissa
+
+Ketterien ohjelmistotuotantomenetelmien suosion kasvu on tarjonnut vaihtoehdon perinteiselle projektijohtamiselle. Ketterissä menetelmissä vastuunjako ja tiimin jäsenten sitouttaminen ovat korostetussa roolissa. Jaetussa johtavuudessa johtajan rooli määräytyy vuorovaikutustaitojen ja asiantuntijuuden mukaan. Ohjelmistojen kehittäminen on haastavaa ja monimutkaista, eikä projekteille ole helppoa asettaa yksiselitteisiä tavoitteita.Tästä syystä projektinhallinnan ja ryhmätyön merkitys korostuu. Tiimihallinto, konfliktinhallinta ja viestinnän hallinta ovat toiminnan kehittämisen ja tasapainon hallinnan kannalta merkittävässä roolissa. Nykypäivänä johtajan tekninen osaaminen on menestyksen kannalta lähes välttämätöntä ja ohjelmistoalalla keskitytäänkin usein voimaannuttavaan johtamiseen perinteisen ohjaavan johtamisen sijaan. Ketterässä toimintamallissa keskitytään ennemmin nopeisiin vastauksiin ja "korjausliikkeisiin" kuin muutosten ennakointiin. 
+
+
+
+Alkuperäinen teksti:
+https://www.cs.helsinki.fi/u/mluukkai/ohtu/laine-kandi.pdf
+Kandidaatintutkielma Eero­Veikko Laine. Referaatti Sami Ollila.
